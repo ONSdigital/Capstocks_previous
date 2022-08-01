@@ -25,9 +25,10 @@ To run the capital stocks code requires the following packages which are compati
 
 Alongside the above packages, the following capital stock packages are needed: 
 
-- [capstock](https://github.com/ONSdigital/Capstock_package) 
-- [pimIO](https://github.com/ONSdigital/PimIO_package) 
-- [prepim](https://github.com/ONSdigital/Prepim_package)
+- capstock
+- pimIO
+- prepim
+- pimir
 
 To add these packages to your library simply copy the above folders into your R library folder.
 
